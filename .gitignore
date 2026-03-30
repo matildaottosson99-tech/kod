@@ -1,2 +1,12 @@
-__pycache__/
+# Ignorera alla pickle-filer
+*.pkl
+
+# Ignorera alla model-filer (joblib)
+*.joblib
+
+# Ignorera alla data-filer
+*.csv
+*.xlsx
+
+# Ignorera systemfiler
 .DS_Store
